@@ -1,5 +1,5 @@
-## Welcome to GitHub Pages
-
+## 欢迎来到"秀水黑墙"
+# 记住我们的网址 xinjinorg.github.io/xshq
 You can use the [editor on GitHub](https://github.com/xinjinorg/xshq/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
